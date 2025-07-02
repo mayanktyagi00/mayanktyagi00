@@ -1,3 +1,4 @@
+![logo](https://github.com/mayanktyagi00/mayanktyagi00/blob/main/WhatsApp%20Image%202025-07-02%20at%2016.49.53_747440a8.jpg)
 <h1 align="center">Hi 👋, I'm Mayank Tyagi</h1>
 <h3 align="center">A passionate Software Developer and Data Analyser from India</h3>
 
